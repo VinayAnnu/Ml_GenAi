@@ -1,0 +1,22 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda environment
+pythonlearning/
+
+# VS Code
+.vscode/
+
+# Python virtual environments
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
